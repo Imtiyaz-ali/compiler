@@ -1,0 +1,6 @@
+A = b * c 
+B = 1 / 3 
+C = A + B 
+D = 5 * f 
+E = C - D 
+F = a = E
